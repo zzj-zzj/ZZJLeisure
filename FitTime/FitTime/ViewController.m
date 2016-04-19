@@ -17,7 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"huijipei");
+
     NSLog(@"分支1修改了代码");
+
+    NSLog(@"vae修改了代码");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
